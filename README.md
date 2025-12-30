@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alaa Otay 👋
 
-<!--
-**alaaotay8/alaaotay8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full‑Stack Engineer focused on backend systems: FastAPI & Laravel, secure APIs (JWT/OAuth2/RBAC), microservices, and real‑time features with WebSockets. Interested in applied AI (OCR + LLMs) and production deployments.
 
-Here are some ideas to get you started:
+- 🌍 Tunisia
+- 🎓 Software Engineering (Expected 2026)
+- 🌐 Portfolio: https://alaaotay.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/alaa-otay8
+- 📫 Email: alaaotay8@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,php,laravel,js,vue,html,css,bootstrap,postgres,mysql,supabase,docker,git,github)](https://skillicons.dev)
+
+## Featured projects
+- **Taxini (real-time ride-hailing)** — FastAPI + Vue 3, WebSockets, JWT, RBAC, pricing logic. Live: https://taxini-app.vercel.app
+- **CV Insight Extractor** — OCR + LLM pipeline to extract structured CV data. Live: https://cv-insight-extractor.onrender.com
+- **Restaurant Management System** — Laravel + MySQL + Bootstrap, admin dashboard, RBAC, analytics.
+
+## What I'm good at
+- Secure REST APIs: JWT, OAuth2 (Google/LinkedIn), RBAC
+- Real-time systems: WebSockets, PostgreSQL LISTEN/NOTIFY
+- Databases: PostgreSQL/MySQL, Supabase
+- DevOps/quality: Docker, CI/CD, Swagger/OpenAPI, OWASP practices
